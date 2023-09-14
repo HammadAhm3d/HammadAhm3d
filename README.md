@@ -15,9 +15,6 @@ I am Hammad, a full-time React-Native Engineer👨‍💻working since 2020 🚀
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Hammad-ahm3d&icon=5&color=0)](https://visitcount.itsvg.in)
 
