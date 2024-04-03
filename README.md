@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Hammad, a full-time React-Native Engineer👨‍💻working since 2020 🚀<br><br>🔭 I’m currently working on Speetar Mobile App<br><br>🌱 I’m currently learning Rust<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br>✨ Also see my work account [hammad-ahm3d](https://github.com/HammadAhm3d)
+I am Hammad, a full-time React-Native Engineer👨‍💻working since 2020 🚀<br><br>🔭 I’m currently working on Speetar Mobile App<br><br>🌱 I’m currently learning Rust<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br>
 
 
 ## 🌐 Socials:
